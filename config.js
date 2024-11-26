@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-global.owner = "6283865233188" //owner number
+global.owner = "6285213570081" //owner number
 global.botname = "Developed By Tama Ryuichi"
 global.footer = "Tama Ryuichi" //footer section
 global.status = true //"self/public" section of the bot
